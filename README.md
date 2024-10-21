@@ -76,6 +76,3 @@ Feel free to contribute to the code by forking the repository and submitting a p
 
 ## License
 This project is licensed under the MIT License.
-```
-
-You can copy this text into a file named `README.md` in your project directory. Adjust the `[repository-url]` and `[repository-directory]` placeholders as needed for your specific project setup.
