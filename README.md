@@ -1,6 +1,3 @@
-Certainly! Below is the content formatted as a Markdown file (`README.md`):
-
-```markdown
 # Weather Data Aggregation and Prime Factorization Application
 
 This application consists of two main functionalities:
